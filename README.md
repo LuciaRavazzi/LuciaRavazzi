@@ -4,9 +4,10 @@
 🏢 I’m graduated in physics and now, I'm attenting a Master degree in Data Science. <br>
 
 📫 How to reach me? 
-  Contact me on:
-    - LinkedIn: https://www.linkedin.com/in/lucia-ravazzi-98720818b/
-    - e-mail: ravazzilucia1@gmail.com
+ 
+ Contact me on:
+ 👉🏻 LinkedIn: https://www.linkedin.com/in/lucia-ravazzi-98720818b/
+ 👉🏻 E-mail: ravazzilucia1@gmail.com
     
   I will be glad to chat about interesting data science topics!
 
