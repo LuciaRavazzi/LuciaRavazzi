@@ -1,7 +1,7 @@
 
 👋 Hi, I’m @LuciaRavazzi. <br>
 👀 I’m 25 years old and I live in Italy. <br>
-🏢 I’m graduated in physics and now, I'm attenting a Master degree in Data Science. <br>
+🏢 I’m graduated in physics and Data Science. <br>
 
 📫 How to reach me? <br>
  Contact me on: <br>
@@ -17,6 +17,12 @@ I try to keep updated with:
 - OpenAI https://openai.com/
 - DeepMind https://www.deepmind.com/
 - Hugging face https://huggingface.co/
+
+Some books that I would like to read:
+- Designing Data-Intensive Applications 
+- Designing Machine Learning systems
+- Fundamentals of Data Engineering
+- An introduction to statistical learning
 
 <!---
 LuciaRavazzi/LuciaRavazzi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
